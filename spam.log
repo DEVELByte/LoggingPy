@@ -1,0 +1,22 @@
+2015-09-15 17:24:34,835 __main__     INFO     creating an instance of auxiliary_module.Auxiliary
+2015-09-15 17:24:34,836 ex_module    INFO     spam_application.auxiliary.Auxiliary
+2015-09-15 17:24:34,836 ex_module    INFO     creating an instance of Auxiliary
+2015-09-15 17:24:34,836 __main__     INFO     created an instance of auxiliary_module.Auxiliary
+2015-09-15 17:24:34,836 __main__     INFO     calling auxiliary_module.Auxiliary.do_something
+2015-09-15 17:24:34,836 ex_module    INFO     doing something
+2015-09-15 17:24:34,836 ex_module    INFO     done doing something
+2015-09-15 17:24:34,836 __main__     INFO     finished auxiliary_module.Auxiliary.do_something
+2015-09-15 17:24:34,836 __main__     INFO     calling auxiliary_module.some_function()
+2015-09-15 17:24:34,836 ex_module    INFO     received a call to "some_function"
+2015-09-15 17:24:34,836 __main__     INFO     done with auxiliary_module.some_function()
+2015-09-15 18:14:17,102 __main__     INFO     creating an instance of auxiliary_module.Auxiliary
+2015-09-15 18:14:17,103 ex_module    INFO     spam_application.auxiliary.Auxiliary
+2015-09-15 18:14:17,103 ex_module    INFO     creating an instance of Auxiliary
+2015-09-15 18:14:17,103 __main__     INFO     created an instance of auxiliary_module.Auxiliary
+2015-09-15 18:14:17,103 __main__     INFO     calling auxiliary_module.Auxiliary.do_something
+2015-09-15 18:14:17,103 ex_module    INFO     doing something
+2015-09-15 18:14:17,103 ex_module    INFO     done doing something
+2015-09-15 18:14:17,103 __main__     INFO     finished auxiliary_module.Auxiliary.do_something
+2015-09-15 18:14:17,103 __main__     INFO     calling auxiliary_module.some_function()
+2015-09-15 18:14:17,103 ex_module    INFO     received a call to "some_function"
+2015-09-15 18:14:17,103 __main__     INFO     done with auxiliary_module.some_function()
