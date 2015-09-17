@@ -15,7 +15,7 @@ __email__ = "naren@develbyte.in"
 # ----------------------------------------------------------------
 # logging configs
 # ----------------------------------------------------------------
-#default_log_file = 'test_log_' + date + '.log'
+log_file = 'test_log_' + date + '.log'
 log_level = logging.DEBUG
 log_format = '%(asctime)s %(name)-12s %(levelname)-8s %(message)s'
 
